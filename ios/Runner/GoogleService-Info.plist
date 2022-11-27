@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>542266389505-ep9q0mhrk3ume8ncq678iuoje99ubgqm.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.542266389505-ep9q0mhrk3ume8ncq678iuoje99ubgqm</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>542266389505-t5eg67lfmcjipu7vb5i47l7l10v00dbt.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBsaEEOzK21xkqLESh71RU7mM286Zgtxgo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>542266389505</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.rento</string>
+	<key>PROJECT_ID</key>
+	<string>rento-360906</string>
+	<key>STORAGE_BUCKET</key>
+	<string>rento-360906.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:542266389505:ios:91e8f665dd2c9944403c00</string>
+</dict>
+</plist>
